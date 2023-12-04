@@ -10,7 +10,7 @@ Microservices architecture is an approach to building software systems by breaki
 
 1. **Clone the repository**: 
     ```bash
-    git clone https://github.com/your-username/microservices-project.git
+    git clone https://github.com/DipankarBhaduri/microservices-project.git
     cd microservices-project
     ```
 
